@@ -1,0 +1,9 @@
+{
+  "label": "第三章 ATK-DLAM62x烧录系统",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description":"本章节简介如下：1.使用balenaEtcher软件2.烧录SD卡(这里烧录SD卡，只使用简单的文件系统，去烧录emmc)3.烧录emmc"
+  }
+  
+}
